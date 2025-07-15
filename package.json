@@ -1,12 +1,12 @@
 {
-  "name": "ASITHA-MD",
+  "name": "DEEP-JAY",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name ASITHA-MD",
-    "stop": "pm2 stop ASITHA-MD",
-    "restart": "pm2 restart ASITHA-MD"
+    "start": "pm2 start start.js --deep-monitoring --attach --name DEEP-JAY",
+    "stop": "pm2 stop DEEP-JAY",
+    "restart": "pm2 restart DEEP-JAY"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "github:nstar-y/bail",
